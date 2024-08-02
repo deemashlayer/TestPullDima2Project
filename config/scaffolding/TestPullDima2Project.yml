@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestPullDima2Project
+  gitServerName: dima
+  gitUrl: https://github.com/deemashlayer/TestPullDima2Project
+  gitUsername: deemashlayer
+  gitBranch: main
